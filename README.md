@@ -1,1 +1,1 @@
-# spark-sbt-image
+Image that contains npm, python, pip, sbt, spark-submit.
